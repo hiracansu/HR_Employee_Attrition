@@ -1,0 +1,8 @@
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+
+
+Bu istenilenlerin program çalıştırılmadan önce yüklenmesi gerekiyor. 
